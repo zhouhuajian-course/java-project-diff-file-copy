@@ -1,0 +1,2 @@
+/some_project_diff/*
+!/some_project_diff/.gitkeep
